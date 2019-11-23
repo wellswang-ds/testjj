@@ -1,4 +1,4 @@
-# Project Title
+# 2019 RMDS Data Science Competition
 
 One Paragraph of project description goes here
 
